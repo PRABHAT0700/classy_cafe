@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/classy_cafe/static/css/main.7075d11c.css",
+    "main.js": "/classy_cafe/static/js/main.bd0111b5.js",
+    "static/media/Dosa.jpg": "/classy_cafe/static/media/Dosa.5f73535f8bc713c88039.jpg",
+    "static/media/Masaladosa.jpg": "/classy_cafe/static/media/Masaladosa.5f73535f8bc713c88039.jpg",
+    "static/media/Idli.jpg": "/classy_cafe/static/media/Idli.ac449918004d8030a7ab.jpg",
+    "static/media/Chola.jpg": "/classy_cafe/static/media/Chola.2b9d7fb0bfde44f4ca1f.jpg",
+    "static/media/Paneer.jpg": "/classy_cafe/static/media/Paneer.39b8f4e9256ce9d929a0.jpg",
+    "static/media/Banner.jpg": "/classy_cafe/static/media/Banner.cafa6faf3c32219ef1db.jpg",
+    "static/media/Logo.png": "/classy_cafe/static/media/Logo.6b7b7726069c8dc76945.png",
+    "static/media/Gujrati.jpg": "/classy_cafe/static/media/Gujrati.268e50542a4b879711de.jpg",
+    "index.html": "/classy_cafe/index.html",
+    "main.7075d11c.css.map": "/classy_cafe/static/css/main.7075d11c.css.map",
+    "main.bd0111b5.js.map": "/classy_cafe/static/js/main.bd0111b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7075d11c.css",
+    "static/js/main.bd0111b5.js"
+  ]
+}
